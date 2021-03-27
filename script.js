@@ -1,4 +1,4 @@
-const shivaratri = '11 mar 2021';
+const shivaratri = '1 mar 2022';
 
 const daysEl = document.getElementById('days');
 const hoursEl = document.getElementById('hours');
